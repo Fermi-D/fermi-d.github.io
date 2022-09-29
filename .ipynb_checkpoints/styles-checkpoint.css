@@ -11,8 +11,8 @@
 }
 
 .header {
-  height: 48px;
-  background-color: lightcyan;
+  height: 200px;
+  /*background-color: lightcyan;*/
   box-sizing: border-box;
   border: 8px solid blue;
 }
@@ -24,8 +24,8 @@
 }
 
 .sidebar {
-  width: 96px;
-  background-color: moccasin;
+  width: 180px;
+  /*background-color: moccasin;*/
   box-sizing: border-box;
   border: 8px solid chocolate;
 }
@@ -38,14 +38,14 @@
 
 .flex-content {
   flex-grow: 1;
-  background-color: palegoldenrod;
+  /*background-color: palegoldenrod;*/
   box-sizing: border-box;
   border: 8px solid green;
 }
 
 .fixed-content {
   height: 128px;
-  background-color: thistle;
+  /*background-color: thistle;*/
   box-sizing: border-box;
   border: 8px solid darkmagenta;
 }
